@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "904239266638",
+    "firebase_url": "https://online-book-store-858a9.firebaseio.com",
+    "project_id": "online-book-store-858a9",
+    "storage_bucket": "online-book-store-858a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904239266638:android:33cf7491a54510b6157c1f",
+        "android_client_info": {
+          "package_name": "com.wpbabu.bookstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904239266638-mpcstdsh216kfmhheb7ekh1f56ca745f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxazi8WgGFvikONFH2b8xkQP4QcwGfJIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904239266638-mpcstdsh216kfmhheb7ekh1f56ca745f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

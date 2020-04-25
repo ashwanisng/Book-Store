@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Backgrocircular_edit_textrcle for the magnitude value -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle" android:thickness="5dp">
+
+    <solid android:color="#9c336a7e"/>
+
+    <size android:width="25dp" android:height="10dp"/>
+
+    <corners  android:radius="180dp"/>
+
+</shape>
