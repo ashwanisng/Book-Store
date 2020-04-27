@@ -1,13 +1,5 @@
 package com.wpbabu.bookstore;
 
-import android.os.Parcel;
-import android.os.Parcelable;
-
-
-/**
- * Created by danish on 27/3/18.
- */
-
 public class Book{
 
     private String mTitle;

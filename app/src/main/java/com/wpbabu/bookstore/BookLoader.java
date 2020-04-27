@@ -3,12 +3,7 @@ package com.wpbabu.bookstore;
 
 import android.content.AsyncTaskLoader;
 import android.content.Context;
-
 import java.util.List;
-
-/**
- * Created by danish on 28/3/18.
- */
 
 public class BookLoader extends AsyncTaskLoader<List<Book>> {
 
