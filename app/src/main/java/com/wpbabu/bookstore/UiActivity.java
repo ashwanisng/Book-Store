@@ -41,7 +41,6 @@ public class UiActivity extends AppCompatActivity implements LoaderCallbacks<Lis
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
         setContentView(R.layout.ui_activity);
 
         loaderManager = getLoaderManager();

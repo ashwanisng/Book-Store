@@ -8,7 +8,7 @@
     android:padding="16dp"
     android:id="@+id/root">
 
-    <android.support.v7.widget.CardView
+    <androidx.cardview.widget.CardView
         android:layout_width="175dp"
         android:layout_height="240dp"
         android:layout_gravity="center"
@@ -46,8 +46,5 @@
                 tools:text="Author" />
 
         </LinearLayout>
-
-    </android.support.v7.widget.CardView>
-
-
+    </androidx.cardview.widget.CardView>
 </LinearLayout>
